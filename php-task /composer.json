@@ -1,0 +1,30 @@
+{
+  "name": "pay4later/php-developer-test",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Pay4Later",
+      "email": "dev@pay4later.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.23",
+    "prewk/xml-string-streamer": "~0.7",
+    "zendframework/zend-config": "~2.5",
+    "zendframework/zend-filter": "~2.5",
+    "zendframework/zend-serializer": "~2.5",
+    "zendframework/zend-servicemanager": "~2.5",
+    "zendframework/zend-stdlib": "~2.5"
+
+  },
+  "config": {
+    "bin-dir": "bin/"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pay4Later\\PDT\\": "src/"
+    }
+  }
+}

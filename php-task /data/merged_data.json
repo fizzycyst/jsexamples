@@ -1,0 +1,158 @@
+[
+    {
+        "userId": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "username": "John1",
+        "user_type": "Employee",
+        "last_login_time": {
+            "date": "2015-01-12 12:01:34.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 10,
+        "first_name": "Ruby",
+        "last_name": "Wax",
+        "username": "ruby",
+        "user_type": "Employee",
+        "last_login_time": {
+            "date": "2014-12-12 08:09:13.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 2,
+        "first_name": "Mary",
+        "last_name": "Jane",
+        "username": "Mary23",
+        "user_type": "Employee",
+        "last_login_time": {
+            "date": "2014-11-01 13:45:42.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 20,
+        "first_name": "John",
+        "last_name": "Doe",
+        "username": "John12",
+        "user_type": "Employee",
+        "last_login_time": {
+            "date": "2015-01-12 12:01:34.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 22,
+        "first_name": "Mary",
+        "last_name": "Jane",
+        "username": "Mary234",
+        "user_type": "Employee",
+        "last_login_time": {
+            "date": "2014-11-01 13:45:42.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 3,
+        "first_name": "David",
+        "last_name": "Payne",
+        "username": "Dpayne",
+        "user_type": "Manager",
+        "last_login_time": {
+            "date": "2014-09-23 09:35:02.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 4,
+        "first_name": "Joe",
+        "last_name": "Public",
+        "username": "joey99",
+        "user_type": "Employee",
+        "last_login_time": {
+            "date": "2014-09-22 08:23:54.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 5,
+        "first_name": "Gary",
+        "last_name": "May",
+        "username": "gary23",
+        "user_type": "Manager",
+        "last_login_time": {
+            "date": "2015-01-02 12:09:35.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 6,
+        "first_name": "Jessica",
+        "last_name": "James",
+        "username": "jj56",
+        "user_type": "Employee",
+        "last_login_time": {
+            "date": "2015-01-13 08:56:12.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 7,
+        "first_name": "Frank",
+        "last_name": "Bruno",
+        "username": "franky",
+        "user_type": "employee",
+        "last_login_time": {
+            "date": "2015-01-12 16:15:43.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 8,
+        "first_name": "Bob",
+        "last_name": "Marley",
+        "username": "bobby3",
+        "user_type": "Manager",
+        "last_login_time": {
+            "date": "2015-02-01 13:01:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 9,
+        "first_name": "Shaun",
+        "last_name": "Stevens",
+        "username": "shaun",
+        "user_type": "Employee",
+        "last_login_time": {
+            "date": "2015-02-01 13:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "userId": 99,
+        "first_name": "Shaun",
+        "last_name": "Stevens",
+        "username": "shaun11",
+        "user_type": "Employee",
+        "last_login_time": {
+            "date": "2015-02-01 13:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    }
+]

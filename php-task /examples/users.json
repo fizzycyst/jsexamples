@@ -1,0 +1,82 @@
+[
+  {
+    "user_id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "John1",
+    "user_type": "Employee",
+    "last_login_time": "2015-01-12T12:01:34+00:00"
+  },
+  {
+    "user_id": 2,
+    "first_name": "Mary",
+    "last_name": "Jane",
+    "username": "Mary23",
+    "user_type": "Employee",
+    "last_login_time": "2014-11-01T13:45:42+00:00"
+  },
+  {
+    "user_id": 3,
+    "first_name": "David",
+    "last_name": "Payne",
+    "username": "Dpayne",
+    "user_type": "Manager",
+    "last_login_time": "2014-09-23T09:35:02+01:00"
+  },
+  {
+    "user_id": 4,
+    "first_name": "Joe",
+    "last_name": "Public",
+    "username": "joey99",
+    "user_type": "Employee",
+    "last_login_time": "2014-09-22T08:23:54+01:00"
+  },
+  {
+    "user_id": 5,
+    "first_name": "Gary",
+    "last_name": "May",
+    "username": "gary23",
+    "user_type": "Manager",
+    "last_login_time": "2015-01-02T12:09:35+00:00"
+  },
+  {
+    "user_id": 6,
+    "first_name": "Jessica",
+    "last_name": "James",
+    "username": "jj56",
+    "user_type": "Employee",
+    "last_login_time": "2015-01-13T08:56:12+00:00"
+  },
+  {
+    "user_id": 7,
+    "first_name": "Frank",
+    "last_name": "Bruno",
+    "username": "franky",
+    "user_type": "employee",
+    "last_login_time": "2015-01-12T16:15:43+00:00"
+  },
+  {
+    "user_id": 8,
+    "first_name": "Bob",
+    "last_name": "Marley",
+    "username": "bobby3",
+    "user_type": "Manager",
+    "last_login_time": "2015-02-01T13:01:00+00:00"
+  },
+  {
+    "user_id": 9,
+    "first_name": "Shaun",
+    "last_name": "Stevens",
+    "username": "shaun",
+    "user_type": "Employee",
+    "last_login_time": "2015-02-01T13:00:00+00:00"
+  },
+  {
+    "user_id": 10,
+    "first_name": "Ruby",
+    "last_name": "Wax",
+    "username": "ruby",
+    "user_type": "Employee",
+    "last_login_time": "2014-12-12T08:09:13+00:00"
+  }
+]
